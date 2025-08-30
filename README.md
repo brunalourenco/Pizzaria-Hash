@@ -2,4 +2,4 @@
 
 Site estático de uma pizzaria desenvolvido com HTML, CSS e Javascript.
 
-Clique no link para visualizar o projeto: https://brunalourenco.github.io/Pizzaria-Hash/
+Clique no link para visualizar o projeto: https://brunalourenco.github.io/pizza-hash/
